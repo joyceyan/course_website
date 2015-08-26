@@ -20,7 +20,7 @@ All meetings will be held in David's office, SAL 232.
 + 4:40 Conde, Kevin, Rowland
 + 4:45 Cook, William, Michael
 + 4:50 Huang, Yining
-+ 4:55 Duan, Michael, S.
++ 4:55 
 
 ####Wednesday, August 26
 + 2:00 Ferguson, Shandira, Danea
@@ -42,7 +42,7 @@ All meetings will be held in David's office, SAL 232.
 + 3:20 Mariucci, Wallis, Josephine
 + 3:25 Meng, Yifan
 + 3:30 Nandapurkar, Zachary, Elijah
-+ 3:35 
++ 3:35 Shau, Arthur 
 + 3:40 Pevehouse, Amanda, Kay
 + 3:45 Rezende Souza, Iuri
 + 3:50 Rudow, Adam, Scott
@@ -67,3 +67,5 @@ All meetings will be held in David's office, SAL 232.
 
 ####To Be Rescheduled
 + Pai, Leilani, Marie
++ Duan, Michael, S.
++ Kaminski, Peter
