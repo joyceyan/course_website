@@ -100,5 +100,5 @@ The virtual machine image is installed on all the Windows PC's in the engineerin
      <li>Many of these machines already have the <i>student-vm</i> imported and ready to run so that you can just start the VM and use it </li>
      <li>If the <i>student-vm</i> is not already imported you may do so by clicking File..Import Appliance.  Then click the browse folder icon to go find the <i>.ova</i> file.  Browse to <pre>Computer\C:\CS VM\student-vm-2015.ova</pre> Then click import.</li>
      <li>Once the appliance is imported you can start it and use it</li>
-     <li><strong>Your files will not be saved from one session to the next, so please copy your files to your USB drive, Dropbox, etc.</strong></li>
+     <li><strong>You may need to create a .ssh key and register it on Github for that VM (similar to what you did in Lab 1).  At that point you can <code>clone</code> your repository, edit and add files, commit your work and then push it back.  Note that your files will not be saved from one session to the next on the VM...so please commit to github each session that you use the VM</strong></li>
 </ol>
