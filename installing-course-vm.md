@@ -4,6 +4,9 @@ title: Course-VM
 nav: course-vm
 ---
 
+**If you are having trouble installing the Virtual Machine you should scroll down to the Other Options section**
+
+
 While you are welcome to install a C++ compiler or integrated development environment natively on your system, or work remotely on aludra.usc.edu (which we consider rather inconvenient), we strongly encourage you to use the <a href="http://www.ubuntu.com">Ubuntu</a> virtual machine (VM) specifically provided for this class. The VM that we use is a customized Ubuntu LTS installation that comes with the most recent C++ compiler, libraries, and debuggers. You can install it on your laptop regardless of your operating system, and use it for the entire semester for labs and homework assignments. We will grade everything on this VM's compiler version and environment so it is critical you check your code on this system before submitting. <strong>All C++ compilers are <span style="text-decoration: underline">NOT</span> the same.</strong> The code you write on Visual Studio or XCode (common Windows and Mac development environments) may not run the same way on another system.
 
 <h3>Installation instructions</h3>
@@ -89,3 +92,13 @@ In this section, we briefly go over common problems with VirtualBox and Ubuntu.
 </ol>
 </li>
 </ul>
+<h3>Other Options</h3>
+The virtual machine image is installed on all the Windows PC's in the engineering computing center (SAL).  Thus, if you absolutely can't get the VM working on your laptop, you can use one of these computers.  Follow the directions below:
+<ol>
+     <li>Boot to Windows (not Mac)</li>
+     <li>Find the VirtualBox icon on the desktop and start the application (not Mac)</li>
+     <li>Many of these machines already have the <i>student-vm</i> imported and ready to run so that you can just start the VM and use it </li>
+     <li>If the <i>student-vm</i> is not already imported you may do so by clicking File..Import Appliance.  Then click the browse folder icon to go find the <i>.ova</i> file.  Browse to <pre>Computer\C:\CS VM\student-vm-2015.ova</pre> Then click import.</li>
+     <li>Once the appliance is imported you can start it and use it</li>
+     <li><strong>Your files will not be saved from one session to the next, so please copy your files to your USB drive, Dropbox, etc.</strong></li>
+</ol>
