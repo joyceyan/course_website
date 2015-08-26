@@ -37,7 +37,7 @@ All meetings will be held in David's office, SAL 232.
 + 2:55 Lee, Chia-Yu
 + 3:00 Gill, Shaina, Kaur
 + 3:05 Levy, Henry
-+ 3:10 Li, Devin, J.
++ 3:10 
 + 3:15 Liao, Xiaoyang
 + 3:20 Mariucci, Wallis, Josephine
 + 3:25 Meng, Yifan
@@ -64,6 +64,7 @@ All meetings will be held in David's office, SAL 232.
 
 ####Friday, August 28
 + 2:00 Schule, Alec, Quinn
++ 2:05 Li, Devin, J.
 
 ####To Be Rescheduled
 + Pai, Leilani, Marie

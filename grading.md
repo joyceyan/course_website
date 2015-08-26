@@ -4,26 +4,37 @@ title: Grading
 nav: grading
 ---
 
+## Grade Weights
+The following point structure will be used in determining the grade for the course. Your final grade will depend solely on your own performance, graded according to the scale given below. 
 
+|     |                             |
+| :-: | :---------------------------|
+| 20% | Homework Project            |
+| 15% | Other Homework Assignments  |
+| 5%  | Lab Exercises               |
+| 25% | Midterm Exam                |
+| 35% | Final Exam                  |
 
-### Homework Grade Policies
-For each assignment, a precise time will be specified (usually at 11:59.59pm) on the due date. Submission must be made correctly via your github account. **After you believe you have submitted, you should always clone your repo into a new folder and make sure everything you think you submitted was cloned into this new folder.  Then compile your code in this new folder and run it to ensure we will also be able to compile and run your code.** 
+Class participation and attendance is strongly encouraged, but will not be enforced or affect grades directly. (Experience shows, however, that attendance and participation correlate highly with success in classes.)
 
-### Grading Scale
+## Grading Scale
+The final grading scale is given below. The meaning of this grade scale is the following: if the weighted average (with the weights given above) of your percentages is above or equal to the given one, you will get at least that grade. As an example, if your weighted average is 74.97%, your grade in the class will be B+. Notice that this means that we do not round percentages up.
+
 We will guarantee that you will get at least the grade indicated by the following scale.  At the end of the semester, we may decide to lower the scale if the exams were more difficult than intended.
-85%+ = A
-80%-85% = A-
-77-80% = B+
-73-77% = B
-70-73% = B-
-67-70% = C+
-63-67% = C
-60-63% = C-
-57-60% = D+
-53-57% = D
-50-53% = D-
 
-#### Grading Disputes
+|  %  | Grade | &nbsp; |
+| :-: | :---: | ------ |
+| 85% |   A   | &nbsp; |
+| 80% |   A-  | &nbsp; |
+| 75% |   B+  | &nbsp; |
+| 70% |   B   | &nbsp; |
+| 65% |   B-  | &nbsp; |
+| 60% |   C+  | &nbsp; |
+| 55% |   C   | &nbsp; |
+| 50% |   C-  | &nbsp; |
+| 45% |   D   | &nbsp; |
+
+## Grading Disputes
 We will work hard to post HW scores and feedback within 2 weeks of the homework's due date. Exams will typically be graded within at most a few days of the exam date.
 
 Any disputes with posted grades <strong>must</strong> be raised within 2 weeks of the score posting. You should **create an issue** in your github repo as detailed below. Notice that any regrade request will result in us trying to give the fairest possible grade to you, which could be higher or lower than the one you received originally.
@@ -39,6 +50,10 @@ Since we want to be able to make sure we can address all of your homework-relate
 </ol>
 
 Final settlement will be, if necessary, decided by the professors.
+
+## Homework Grading Policies
+For each assignment, a precise time will be specified (usually at 11:59.59pm) on the due date. Submission must be made correctly via your github account. **After you believe you have submitted, you should always clone your repo into a new folder and make sure everything you think you submitted was cloned into this new folder.  Then compile your code in this new folder and run it to ensure we will also be able to compile and run your code.** 
+
 
 ### Grading Environment
 We will grade your assignments using gcc/g++ at the command line in the virtual machine we provide for the course. You are free to use other compilers or IDEs to develop your code, but in the end, it has to work with g++ in the virtual machine. You probably want to test that it does before submitting.
