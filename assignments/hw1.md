@@ -20,7 +20,7 @@ nav: assignments
 On many occasions we will want to distribute skeleton code, tests, and other pertinent files. To do this we have made a separate repository, [`homework-resources`]({{site.data.main.github}} ), under our class GitHub site.  You should clone this repository to your laptop and do a `git pull` regularly to check for updates.  
 
 ```
-$ git clone git@github.com:usc-csci104-fall2015/course_website.git
+$ git clone git@github.com:usc-csci104-fall2015/homework-resources.git
 ```
 
 Again, be sure you don't clone this repo into your `hw_usc-username` repo but at some higher up point like in a `cs104` folder on your laptop.
