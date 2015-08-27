@@ -20,7 +20,7 @@ nav: assignments
 On many occasions we will want to distribute skeleton code, tests, and other pertinent files. To do this we have made a separate repository, [`homework-resources`]({{site.data.main.github}} ), under our class GitHub site.  You should clone this repository to your laptop and do a `git pull` regularly to check for updates.  
 
 ```
-$ git clone git@github.com:usc-csci104-spring2015/homework-resources
+$ git clone git@github.com:usc-csci104-fall2015/course_website.git
 ```
 
 Again, be sure you don't clone this repo into your `hw_usc-username` repo but at some higher up point like in a `cs104` folder on your laptop.
@@ -298,6 +298,6 @@ Be sure to add, commit, and push your code in your `hw1` directory to your `hw_u
 1. Go to your home directory: `$ cd ~`
 1. Create a `verify` directory: `$ mkdir verify`
 1. Go into that directory: `$ cd verify`
-1. Clone your hw_username repo: `$ git clone git@github.com:usc-csci104-summer2015/hw_usc-username.git`
+1. Clone your hw_username repo: `$ git clone git@github.com:usc-csci104-fall2015/hw_usc-username.git`
 1. Go into your `hw1` folder `$ cd hw_username/hw1`
 1. Recompile and rerun your programs and tests to ensure that what you submitted works.
