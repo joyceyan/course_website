@@ -29,7 +29,7 @@ For special questions, you can contact your instructor. However, we encourage y
 <td>David Kempe</td>
 <td><img class=" size-full wp-image-279 alignnone" src="http://www-bcf.usc.edu/~dkempe/images/photo.jpg" alt="David" width="85" height="90" /></td>
 <td>dkempe@</td>
-<td>TBA</td>
+<td>Wednesday, 9:00-11:59am</td>
 <td>SAL 232</td>
 </tr>
 <tr>
