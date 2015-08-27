@@ -78,7 +78,21 @@ Class participation and attendance is strongly encouraged, but will not be enfor
 
 #### Grading Scale
 
-The final grading scale will be based on class performance and we will <strong>NOT</strong> use a fixed rubric as in past semesters. However, we will guarantee a standard grading scale (90-100 = A range, 80-89 = B range, etc.) and lower that scale at the end of the semester as warranted if scores are lower.
+The final grading scale is given below. The meaning of this grade scale is the following: if the weighted average (with the weights given above) of your percentages is above or equal to the given one, you will get at least that grade. As an example, if your weighted average is 74.97%, your grade in the class will be B+. Notice that this means that we do not round percentages up.
+
+We will guarantee that you will get at least the grade indicated by the following scale.  At the end of the semester, we may decide to lower the scale if the exams were more difficult than intended.
+
+|  %  | Grade | &nbsp; |
+| :-: | :---: | ------ |
+| 85% |   A   | &nbsp; |
+| 80% |   A-  | &nbsp; |
+| 75% |   B+  | &nbsp; |
+| 70% |   B   | &nbsp; |
+| 65% |   B-  | &nbsp; |
+| 60% |   C+  | &nbsp; |
+| 55% |   C   | &nbsp; |
+| 50% |   C-  | &nbsp; |
+| 45% |   D   | &nbsp; |
 
 #### Grading policies
 

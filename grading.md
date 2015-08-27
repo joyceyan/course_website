@@ -34,7 +34,7 @@ We will guarantee that you will get at least the grade indicated by the followin
 | 50% |   C-  | &nbsp; |
 | 45% |   D   | &nbsp; |
 
-## Grading Disputes
+## Grading Disputes 
 We will work hard to post HW scores and feedback within 2 weeks of the homework's due date. Exams will typically be graded within at most a few days of the exam date.
 
 Any disputes with posted grades <strong>must</strong> be raised within 2 weeks of the score posting. You should **create an issue** in your github repo as detailed below. Notice that any regrade request will result in us trying to give the fairest possible grade to you, which could be higher or lower than the one you received originally.
