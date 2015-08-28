@@ -13,7 +13,7 @@ nav: assignments
 ###A Few Notes on Repositories
 
 1. Never clone one repo into another.  If you have a folder `cs104` on your VM and you clone your personal repo `hw_usc-username` under it (i.e. `cs104/hw_usc-username`) then whenever you want to clone some other repo, you need to do it back up in the `cs104` folder or other location, NOT in the `hw_usc-username` folder.
-1. Your repos may not be ready immediately but be sure to create your GitHub account and fill out the GitHub information form linked to at the end of [Lab 01]({site.url}/labs/lab01.html).
+1. Your repos may not be ready immediately but be sure to create your GitHub account and fill out the GitHub information form linked to at the end of [Lab 01]({{ site.url }}/labs/lab01.html).
 
 ###Skeleton Code
 
@@ -75,7 +75,7 @@ Is there a grace period to submit assignments?
 
 
 ###Problem 2 (Git, 10%)
-Carefully review and implement the steps discussed in [Lab1]({site.url}/labs/lab01.html). Then, answer the following questions:
+Carefully review and implement the steps discussed in [Lab1]({{ site.url }}/labs/lab01.html). Then, answer the following questions:
 
 **Continue your answers to this question in the file name `hw1.txt`**
 
