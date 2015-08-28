@@ -2,6 +2,14 @@
 
 The course webiste uses the [Jekyll] static website generator to render its content. Since the course is highly intergrated with GitHub, using [Jekyll] makes life easier when writing labs and assignments.
 
+## TLDR; Updating the website
+
+```
+git add/commit
+git push 
+git push origin master:deploy
+```
+
 ###How to Edit the Course Website?
 You can edit the course website by commiting to this repository. This repository uses [Post-Receive Hooks](https://help.github.com/articles/post-receive-hooks) to automatically push changes to the course account on [www-scf](http://www-scf.usc.edu/~csci104/).
 
