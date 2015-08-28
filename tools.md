@@ -18,6 +18,10 @@ Additional information will be posted here throughout the course as needed.
 
  - [Sample Midterm](http://bits.usc.edu/files/cs104/midterm.pdf) (no solutions)
  - [Sample Final](http://bits.usc.edu/files/cs104/final.pdf) (no solutions)
+ 
+###Git Resources
+
+- We've created a page here just for [git resources here](http://bits.usc.edu/cs104/git-resources.html).
 
 <h3 id="toc_4">Linux/Unix Reference</h3>
 <ul>
