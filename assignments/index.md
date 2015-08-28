@@ -15,13 +15,13 @@ Each student will receive a private code repository on the course's [GitHub Orga
 |                      HW                          |           Topic                              |                Due Date                 |
 | :----------------------------------------------: | :------------------------------------------  | :-------------------------------------: |
 | [**HW01**]({{ site.url }}/assignments/hw1.html)  | Course Overview, Memory, & Recursion         | Fri. Sept. 4, 2015 @ 11:59PM (PST)      |
-| [**HW02**]({{ site.url }}/assignments/hw2.html)  | Linked Lists and Stacks                      | Mon. Sept. 14, 2015 @ 11:59PM (PST)     |
-| [**HW03**]({{ site.url }}/assignments/hw3.html)  | Copy Constructors, Operator Overloading and STL | Wed. Sept. 23, 2015 @ 11:59PM (PST)  |
-| [**HW04**]({{ site.url }}/assignments/hw4.html)  | Project, Part 1 (TBA)                        | Wed. Oct. 7, 2015 @ 11:59PM (PST)       |
-| [**HW05**]({{ site.url }}/assignments/hw5.html)  | Project, Part 2 (Qt)                         | Tues. Oct. 27, 2015 @ 11:59PM (PST)     |
-| [**HW06**]({{ site.url }}/assignments/hw6.html)  | Project, Part 3 (Heaps & Graph Algorithms)   | Tues. Nov. 10, 2015 @ 11:59PM (PST)     |
-| [**HW07**]({{ site.url }}/assignments/hw7.html)  | Iterators, Maps, and Backtracking            | Fri. Nov. 20, 2015 @ 11:59AM (PST)      |
-| [**HW08**]({{ site.url }}/assignments/hw8.html)  | Project, Part 4  (Hashing & Project Options) | Fri. Dec. 4, 2015 @ 11:59PM (PST)       |
+| [**HW02**]({{ site.url }}/assignments/)  | Linked Lists and Stacks                      | Mon. Sept. 14, 2015 @ 11:59PM (PST)     |
+| [**HW03**]({{ site.url }}/assignments/)  | Copy Constructors, Operator Overloading and STL | Wed. Sept. 23, 2015 @ 11:59PM (PST)  |
+| [**HW04**]({{ site.url }}/assignments/)  | Project, Part 1 (TBA)                        | Wed. Oct. 7, 2015 @ 11:59PM (PST)       |
+| [**HW05**]({{ site.url }}/assignments/)  | Project, Part 2 (Qt)                         | Tues. Oct. 27, 2015 @ 11:59PM (PST)     |
+| [**HW06**]({{ site.url }}/assignments/)  | Project, Part 3 (Heaps & Graph Algorithms)   | Tues. Nov. 10, 2015 @ 11:59PM (PST)     |
+| [**HW07**]({{ site.url }}/assignments/)  | Iterators, Maps, and Backtracking            | Fri. Nov. 20, 2015 @ 11:59AM (PST)      |
+| [**HW08**]({{ site.url }}/assignments/)  | Project, Part 4  (Hashing & Project Options) | Fri. Dec. 4, 2015 @ 11:59PM (PST)       |
   
 #### Grace Days (Late Submissions)
 Each student has 4 grace days they can use over the course of the semester. **You may only use 1 grace day per assignment**. Once you have used your grace days, any late submission will not be accepted and graded as a 0.

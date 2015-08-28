@@ -75,7 +75,7 @@ Is there a grace period to submit assignments?
 
 
 ###Problem 2 (Git, 10%)
-Carefully review and implement the steps discussed in [Lab1](http://bits.usc.edu/cs104/lab01/). Then, answer the following questions:
+Carefully review and implement the steps discussed in [Lab1]({site.url}/labs/lab01.html). Then, answer the following questions:
 
 **Continue your answers to this question in the file name `hw1.txt`**
 

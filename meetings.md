@@ -66,20 +66,22 @@ All meetings will be held in David's office, SAL 232.
 + 2:00 Schule, Alec, Quinn
 + 2:05 Li, Devin, J.
 + 2:10 Uko, William, Uwe
++ 2:15 Kataria, Kunal
++ 2:20 Pevehouse, Amanda, Kay
++ 2:25 Yin, Michelle
++ 2:30 Liao, Xiaoyang
++ 4:10 Song, Ao
++ 4:15 Wojtyna, Nicholas, Michael
++ 4:20 Yang, Heji
+
+####Tuesday, September 1
++ 12:40 Kaminski, Peter
++ 12:45 Duan, Michael, S.
++ 12:50 Hernandez, Robert
++ 12:55 Hui, Johnson
 
 ####To Be Rescheduled
 
-+ Duan, Michael, S.
-+ Kaminski, Peter
 + Gosula, Rama , Soares Reddy
-+ Hernandez, Robert
-+ Hui, Johnson
-+ Kataria, Kunal
-+ Liao, Xiaoyang
-+ Pevehouse, Amanda, Kay
 + Rudow, Adam, Scott
 + Shi, Kevin, Cai
-+ Song, Ao
-+ Wojtyna, Nicholas, Michael
-+ Yang, Heji
-+ Yin, Michelle
